@@ -15,7 +15,7 @@ tickerSymbol = 'AFL'
 #get data on this ticker
 tickerData = yf.Ticker(tickerSymbol)
 #get the historical prices for this ticker
-tickerDF = tickerData.history(period ='1y', start='2020-1-1', end='2020-12-31')
+tickerDf = tickerData.history(period ='1y', start='2020-1-1', end='2020-12-31')
 # Open High Low Close Volume Dividends  Stock splits
 
 st.line_chart(tickerDf.Close)

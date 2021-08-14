@@ -1,7 +1,7 @@
 ###########
 # sidebar #
 ###########
-option = st.sidebar.selectbox('Select one symbol', ('AFL', 'PRU', 'MDT'))
+option = st.sidebar.selectbox('Select one symbol', ('AFL', "SPY", 'PRU' 'MDT'))
 import datetime
 today = datetime.date.today()
 before = today - datetime.timedelta(days=700)

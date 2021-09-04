@@ -1,7 +1,7 @@
 import yfinance as yf
 
-afl = yf.Ticker('stag')
+stag = yf.Ticker('stag')
 
-hist = afl.history(period="max")
+hist = stag.history(period="max")
 
 print(stag.history)

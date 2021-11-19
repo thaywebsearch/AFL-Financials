@@ -1,7 +1,7 @@
 import yfinance as yf
 
-stag = yf.Ticker('enb')
+enb = yf.Ticker('enb')
 
-hist = stag.history(period="max")
+hist = enb.history(period="max")
 
-print(stag.history)
+print(enb.history)

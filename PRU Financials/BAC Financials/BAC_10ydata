@@ -1,0 +1,10 @@
+import yfinance as yf
+import pandas as pd
+
+yf.download('BAC', period='10y')
+
+bac = yf.download('BAC', period='10y')
+
+bac.head()
+
+bac['Adj Close'].plot(figsize=[10,5], legend=True),

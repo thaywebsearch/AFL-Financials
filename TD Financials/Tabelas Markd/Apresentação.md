@@ -7,10 +7,11 @@ Gilberto Pereira 44 Portuguesa Vigilante 20.000 Léguas submarinas Running Bába
 | --- | --- | --- | --- | --- |
 |  Gilberto   |  Pereira   |  44   |  Vigilante   |  Gafanha da Nazaré   |
 
-| Gilberto          |   Pereira  | 44    |
-| ----------------- | --- | --- |
-| Pereira           | Vigilante    |   Gafanha da Nazaré  |
-| Vigilante         | Running    |  GD Assempark   |
-| 44                |     |     |
-| Gafanha da Nazaré |     |     |
-| Running           |     |     |              
+| Gilberto          | Pereira   | 44                |
+| ----------------- | --------- | ----------------- |
+| Pereira           | Vigilante | Gafanha da Nazaré |
+| Vigilante         | Running   | GD Assempark      |
+| 44                |           |                   |
+| Gafanha da Nazaré |           |                   |
+| Running           |           |                   |
+| Atletismo         | FC Porto         |                   |

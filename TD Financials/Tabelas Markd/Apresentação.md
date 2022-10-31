@@ -1,2 +1,2 @@
 
-Gilberto Pereira Idade Nacionalidade
+Gilberto Pereira Idade Nacionalidade Profissão Livros Hobbies

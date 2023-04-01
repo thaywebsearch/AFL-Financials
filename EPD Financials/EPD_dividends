@@ -3,3 +3,5 @@ import yfinance as yf
 epd = yf.Ticker('epd')
 
 print(epd.dividends)
+
+#EPD dividends error
